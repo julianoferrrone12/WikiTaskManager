@@ -6,4 +6,4 @@
   
   ### Front-End (Task Manager Front): [Clique Aqui!](https://github.com/julianoferrrone12/TaskManagerFront)
 
-  ### Documentação da Arquiterura do sistema (Wiki docs desse repositório): [Clique Aqui!](https://github.com/julianoferrrone12/Wiki_Note_APP/wiki)
+  ### Documentação da Arquiterura do sistema (Wiki docs desse repositório): [Clique Aqui!](https://github.com/julianoferrrone12/WikiTaskManager/wiki)
